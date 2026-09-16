@@ -215,6 +215,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/nevercooked/dsa.cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nevercooked/dsa.cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1833-find-the-highest-altitude](https://github.com/nevercooked/dsa.cpp/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2358-number-of-ways-to-split-array](https://github.com/nevercooked/dsa.cpp/tree/master/2358-number-of-ways-to-split-array) |
@@ -348,6 +349,7 @@
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nevercooked/dsa.cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
@@ -600,6 +602,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nevercooked/dsa.cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
 | [2039-sum-game](https://github.com/nevercooked/dsa.cpp/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/nevercooked/dsa.cpp/tree/master/2050-count-good-numbers) |
@@ -758,6 +761,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nevercooked/dsa.cpp/tree/master/0062-unique-paths) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nevercooked/dsa.cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3583-sorted-gcd-pair-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3583-sorted-gcd-pair-queries) |
 ## Game Theory
 |  |
