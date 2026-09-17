@@ -62,6 +62,7 @@
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/nevercooked/dsa.cpp/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/nevercooked/dsa.cpp/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/nevercooked/dsa.cpp/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -150,6 +151,7 @@
 | [1447-jump-game-iv](https://github.com/nevercooked/dsa.cpp/tree/master/1447-jump-game-iv) |
 | [1487-cinema-seat-allocation](https://github.com/nevercooked/dsa.cpp/tree/master/1487-cinema-seat-allocation) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/samirjout/dsa.cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nevercooked/dsa.cpp/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nevercooked/dsa.cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/samirjout/dsa.cpp/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -349,6 +351,7 @@
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nevercooked/dsa.cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/nevercooked/dsa.cpp/tree/master/1466-jump-game-v) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nevercooked/dsa.cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
@@ -368,6 +371,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/samirjout/dsa.cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/nevercooked/dsa.cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/nevercooked/dsa.cpp/tree/master/0713-subarray-product-less-than-k) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2001-jump-game-vii](https://github.com/nevercooked/dsa.cpp/tree/master/2001-jump-game-vii) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/samirjout/dsa.cpp/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nevercooked/dsa.cpp/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -401,6 +405,7 @@
 | [0755-reach-a-number](https://github.com/samirjout/dsa.cpp/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/nevercooked/dsa.cpp/tree/master/0907-koko-eating-bananas) |
 | [1066-fixed-point](https://github.com/nevercooked/dsa.cpp/tree/master/1066-fixed-point) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nevercooked/dsa.cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/nevercooked/dsa.cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/samirjout/dsa.cpp/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2634-minimum-common-value](https://github.com/nevercooked/dsa.cpp/tree/master/2634-minimum-common-value) |
