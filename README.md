@@ -610,6 +610,7 @@
 | [1013-fibonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nevercooked/dsa.cpp/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/nevercooked/dsa.cpp/tree/master/1240-stone-game-ii) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/nevercooked/dsa.cpp/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/nevercooked/dsa.cpp/tree/master/1522-stone-game-iii) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nevercooked/dsa.cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1968-maximum-building-height](https://github.com/nevercooked/dsa.cpp/tree/master/1968-maximum-building-height) |
@@ -806,4 +807,5 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/nevercooked/dsa.cpp/tree/master/0866-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/nevercooked/dsa.cpp/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
