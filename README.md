@@ -296,6 +296,7 @@
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/nevercooked/dsa.cpp/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/nevercooked/dsa.cpp/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/nevercooked/dsa.cpp/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3939-process-string-with-special-operations-ii) |
@@ -706,6 +707,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/nevercooked/dsa.cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nevercooked/dsa.cpp/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/nevercooked/dsa.cpp/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/nevercooked/dsa.cpp/tree/master/3811-reverse-degree-of-a-string) |
 | [3931-process-string-with-special-operations-i](https://github.com/nevercooked/dsa.cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [3939-process-string-with-special-operations-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3939-process-string-with-special-operations-ii) |
 | [4216-weighted-word-mapping](https://github.com/nevercooked/dsa.cpp/tree/master/4216-weighted-word-mapping) |
