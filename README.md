@@ -109,6 +109,7 @@
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/samirjout/dsa.cpp/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3750-closest-equal-element-queries](https://github.com/nevercooked/dsa.cpp/tree/master/3750-closest-equal-element-queries) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/nevercooked/dsa.cpp/tree/master/3831-find-x-value-of-array-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/nevercooked/dsa.cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
@@ -362,6 +363,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/nevercooked/dsa.cpp/tree/master/2554-minimum-total-distance-traveled) |
 | [2754-maximum-strength-of-a-group](https://github.com/samirjout/dsa.cpp/tree/master/2754-maximum-strength-of-a-group) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/nevercooked/dsa.cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3831-find-x-value-of-array-i](https://github.com/nevercooked/dsa.cpp/tree/master/3831-find-x-value-of-array-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3919-network-recovery-pathways](https://github.com/nevercooked/dsa.cpp/tree/master/3919-network-recovery-pathways) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -626,6 +628,7 @@
 | [3626-smallest-divisible-digit-product-i](https://github.com/nevercooked/dsa.cpp/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3831-find-x-value-of-array-i](https://github.com/nevercooked/dsa.cpp/tree/master/3831-find-x-value-of-array-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/nevercooked/dsa.cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/nevercooked/dsa.cpp/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/nevercooked/dsa.cpp/tree/master/3859-maximum-product-of-two-digits) |
